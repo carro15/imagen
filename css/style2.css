@@ -1,0 +1,66 @@
+.goku{
+    background-color: rgb(167, 154, 154);
+    width: 80%;
+    margin: 0 auto;
+    border: 5px solid rgb(175, 135, 135);
+   
+    
+}
+.goku img{
+   width: 50%;
+   border-radius: 30px;
+   border: 3px solid black;
+
+}
+main{
+    width: 70%;
+    background-color: rgb(155, 159, 223);
+    margin: 0 auto;
+    padding: 50px;
+}
+
+
+p{
+    width: 60%;
+    background-color: rgb(154, 190, 190);
+    color: rgb(119, 135, 163);
+    padding-top: 7px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 6px;
+    text-align: center;
+    margin: 0 auto;
+
+
+
+
+}
+
+form button{
+    display: block;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(139, 171, 231);
+    color: rgb(195, 228, 195);
+    margin: 15px auto;
+
+}
+
+ .goku h2{
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+    border-bottom: 4px dashed red;
+}
+
+.goku p{
+    text-align: justify;
+    padding: 20px;
+    margin: 0 auto;
+
+}
+
+h1{
+    text-align: center;
+}
+
